@@ -1,4 +1,4 @@
-const ROBOTFLOW_API_KEY = 'OgC3ItbaT46SvzYTwQAJ';
+const ROBOTFLOW_API_KEY = '...'; // removed private api key for security reasons
 const MODEL_ID = 'brain-mri-classification-jldfa/1';
 
 // DOM Elements
